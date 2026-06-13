@@ -1,0 +1,20 @@
+2025-06-12 09:00:01 INFO Application started
+2025-06-12 09:01:15 INFO User login successful
+2025-06-12 09:02:30 WARNING High memory usage detected
+2025-06-12 09:03:12 INFO Database connection established
+2025-06-12 09:04:45 ERROR Database connection timeout
+2025-06-12 09:05:22 INFO Retrying database connection
+2025-06-12 09:06:10 INFO Database connection restored
+2025-06-12 09:07:35 WARNING Disk space running low
+2025-06-12 09:08:50 INFO File upload started
+2025-06-12 09:09:18 ERROR File upload failed
+2025-06-12 09:10:44 INFO User logout successful
+2025-06-12 09:11:05 WARNING API response delayed
+2025-06-12 09:12:27 INFO Scheduled job started
+2025-06-12 09:13:49 ERROR Authentication token expired
+2025-06-12 09:14:56 INFO Authentication token refreshed
+2025-06-12 09:15:33 INFO Scheduled job completed
+2025-06-12 09:16:41 WARNING CPU usage above threshold
+2025-06-12 09:17:58 ERROR Database query failed
+2025-06-12 09:18:22 INFO Database query retried
+2025-06-12 09:19:47 INFO Application shutdown initiated
